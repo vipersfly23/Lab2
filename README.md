@@ -3,17 +3,19 @@ Lab2_HH
 
 For Lab 2 ECE 281
 
-* Full Adder: *
-![Hello](https://github.com/vipersfly23/Lab1_HH/blob/master/Sim_Screen_Shot.GIF?raw=true "Full Adder Schematics")
-* Full Adder and Subtractor: *
-  Schematics:
+* Basic Adder Schematic: 
+* 
+![Hello](https://github.com/vipersfly23/Lab1_HH/blob/master/Sim_Screen_Shot.GIF?raw=true "Basic Adder Schematics")
+
+* Full Adder Schematics: 
+
+![alt text](https://github.com/vipersfly23/Lab1_HH/blob/master/Schematic.GIF?raw=true "Full Adder/Subtractor Schematics")
+
+* Full Adder and Subtractor Schematics: 
 
 ![alt text](https://github.com/vipersfly23/Lab1_HH/blob/master/Schematic.GIF?raw=true "Full Adder/Subtractor Schematics")
 
 
-Truth Table:
-
-![alt text](https://github.com/vipersfly23/Lab1_HH/blob/master/Truth_table.GIF?raw=true "Truth Table")
 
 ##Functionality
 * 1 bit full adder *FULLY FUNCTIONAL*
