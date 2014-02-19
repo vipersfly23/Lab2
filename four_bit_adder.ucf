@@ -1,0 +1,21 @@
+#B is the input for the second number
+net"B<3>" LOC = "R17";
+net"B<2>" LOC = "N17";
+net"B<1>" LOC = "L13";
+net"B<0>" LOC = "L14";
+
+#Ain is the input for the second number.  
+net"Ain<3>" LOC = "K17";
+net"Ain<2>" LOC = "K18";
+net"Ain<1>" LOC = "H18";
+net"Ain<0>" LOC = "G18";
+
+#Check is the input for the button.  
+net"Check" LOC =  "H13";
+
+
+net"OverFlow" LOC = "E17";
+net"Sum<3>" LOC = "K14";
+net"Sum<2>" LOC = "K15";
+net"Sum<1>" LOC = "J15";
+net"Sum<0>" LOC = "J14";
