@@ -17,7 +17,7 @@ For Lab 2 ECE 281
 
 * TestBench Screen Shot
 
-![alt text](https://github.com/vipersfly23/Lab2/blob/master/Adder_subtractor.GIF?raw=true "Testbench simulation")
+![alt text](https://github.com/vipersfly23/Lab2/blob/master/TestBench_Picture.GIF?raw=true "Testbench simulation")
 
 ## Steps
 * Basic Adder was built using XOR gates, and AND gates as showns in the schematics
