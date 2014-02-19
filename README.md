@@ -15,6 +15,10 @@ For Lab 2 ECE 281
 
 ![alt text](https://github.com/vipersfly23/Lab2/blob/master/Adder_subtractor.GIF?raw=true "Full Adder/Subtractor Schematics")
 
+* TestBench Screen Shot
+
+![alt text](https://github.com/vipersfly23/Lab2/blob/master/Adder_subtractor.GIF?raw=true "Testbench simulation")
+
 ## Steps
 * Basic Adder was built using XOR gates, and AND gates as showns in the schematics
 * A VHDL module was established with 4 inputs, a carry vector, and an output vector called sum.
@@ -35,8 +39,8 @@ For Lab 2 ECE 281
 * 4 bit adder *FULLY FUNCTIONAL*
 * Subtraction *FULLY FUNCTIONAL*
 * Overflow Detection *FULLY FUNCTIONAL*
-* Looping self-checking testbench *Half Functional*
-      * File has unitialized values
+* Looping self-checking testbench *Functional*
+      
   
 ##Links to Files
 
